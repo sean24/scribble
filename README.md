@@ -42,7 +42,7 @@ Create a project `olympus`
 
     django-admin startproject olympus
 
-Create an app `polls` as per https://docs.djangoproject.com/en/1.11/intro/tutorial01/[tutorial]
+Create an app `polls` as per [https://docs.djangoproject.com/en/1.11/intro/tutorial01/]tutorial
 
     cd olympus
     python3 manage.py startapp polls
