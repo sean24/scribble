@@ -66,3 +66,8 @@ Check the tables
     sqlite> .tables
     sqlite> .exit
 
+Sean's List
+
+ * sushi
+ * money
+
